@@ -41,7 +41,7 @@ Each project has its own folder with source code and instructions to run in Inte
 
 ---
 
-## 🚀 How to Run in IntelliJ
+## To Run in IntelliJ
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/lalitarawat/Java-Projects.git
