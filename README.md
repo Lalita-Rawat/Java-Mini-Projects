@@ -1,4 +1,4 @@
-# ☕ Java Mini Projects
+# Java Mini Projects
 
 This repository contains **20 small Java projects** created while learning Java programming.  
 All projects are developed using **IntelliJ IDEA** and demonstrate **Core Java concepts** like OOP, inheritance, abstraction, method overloading, and more.
