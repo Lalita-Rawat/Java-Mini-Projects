@@ -13,7 +13,7 @@ Each project has its own folder with source code and instructions to run in Inte
 |-----|--------------|-------------|
 | 01  | [Employee Management System](./Employee%20Management%20System) | Manage employee data including add, update, delete, and search features. |
 | 02  | [Vehicle Inheritance Example](./Vehicle%20Inheritance%20Example) | Demonstrates inheritance using different types of vehicles. |
-| 03  | [Abstract Shape Class](./Abstract%20Shape%20Class) | Uses abstraction to define shapes and calculate their areas/perimeters. |
+| 03  | [AbstractShape](./Abstract%20Shape%20Class) | Uses abstraction to define shapes and calculate their areas/perimeters. |
 | 04  | [Hospital Management System](./Hospital%20Management%20System) | Tracks patients, doctors, and appointments in a hospital. |
 | 05  | [Calculator Using Method Overloading](./Calculator%20Using%20Method%20Overloading) | A calculator showcasing method overloading in Java. |
 | 06  | [Sound Simulator](./Sound%20Simulator) | Simulates different sound types using polymorphism. |
