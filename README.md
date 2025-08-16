@@ -14,10 +14,10 @@ Each project has its own folder with source code and instructions to run in Inte
 | 01 | [Employee Management System](./EmployeeManagementSystem) | Manage employee data including add, update, delete, and search features. |
 | 02 | [Vehicle Inheritance Example](./VehicleInheritance) | Demonstrates inheritance using different types of vehicles. |
 | 03 | [AbstractShape](./AbstractShape) | Uses abstraction to define shapes and calculate their areas/perimeters. |
-| 04 | [Hospital Management System](./Hospital\ Management\ System) | Tracks patients, doctors, and appointments in a hospital. |
+| 04 | [Hospital Management System](./HospitalManagementSystem) | Tracks patients, doctors, and appointments in a hospital. |
 | 05 | [Calculator Using Method Overloading](./Calculator) | A calculator showcasing method overloading in Java. |
 | 06 | [Sound Simulator](./AnimalSimulator) | Simulates different sound types using polymorphism. |
-| 07 | [University Course System](./University\ Course\ System) | Manages courses, students, and enrollment in a university. |
+| 07 | [University Course System](./UniversityCourseSystem) | Manages courses, students, and enrollment in a university. |
 | 08 | [Shape Drawer](./ShapeDrawerProject) | Draws different shapes using ASCII characters or GUI. |
 | 09 | [Appliance Control System](./ApplianceControlSystem) | Simulates controlling appliances like fans, lights, and AC. |
 | 10 | [Online Payment Gateway](./OnlinePaymentGateway) | Demonstrates payment process simulation with validation. |
